@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!Preferences.sublime-settings
+
+# ...even if they are in subdirectories
+!*/
