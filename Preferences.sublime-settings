@@ -7,6 +7,6 @@
 	[
 		"Vintage"
 	],
-	"save_on_focus_lost": true,
-	"open_files_in_new_window": false
+	"open_files_in_new_window": false,
+	"save_on_focus_lost": true
 }
